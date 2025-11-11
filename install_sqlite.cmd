@@ -1,3 +1,10 @@
 # autor : Gabriel Peterossi Maricato e IA
-# instalacao do sqlite via chocolatey
+# funcao: Instalacao do sqlite via chocolatey
+
+Write-Host '=================================================' -ForegroundColor White
+Write-Host 'autor : Gabriel Peterossi Maricato e IA' -ForegroundColor White
+Write-Host ''
+Write-Host 'funcao: Instalacao do sqlite via chocolatey'
+Write-Host '=================================================' -ForegroundColor Black
+
 choco install sqlite
